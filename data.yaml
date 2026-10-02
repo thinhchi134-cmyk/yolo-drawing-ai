@@ -1,0 +1,17 @@
+path: "D:/file thinh/Job data/machine vision test/yolo pipeline/170_NEW"
+
+train: dataset_fine_tune_all_final/images/train
+val: dataset_fine_tune_all_final/images/val
+test: dataset_fine_tune_all_final/images/test
+
+names:
+  0: titleblock
+  1: revision
+  2: notes
+  3: legend
+  4: plan
+  5: section
+  6: elevation
+  7: detail
+  8: schedule
+  9: keyplan

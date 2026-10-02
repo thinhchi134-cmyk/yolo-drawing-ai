@@ -1,0 +1,3 @@
+opencv-python
+PyMuPDF
+ultralytics==8.4.161
